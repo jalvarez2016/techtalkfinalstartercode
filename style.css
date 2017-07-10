@@ -25,3 +25,10 @@ p{
     text-align: center;
 }
 
+.visible{
+    color: black;
+}
+
+.hidden{
+    width: 50px;
+}
